@@ -1,0 +1,5 @@
+opencv-python==4.7.0.72
+pytesseract==0.3.10
+pandas==2.2.2
+numpy==1.26.2
+Flask==2.0.3
